@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1666795666 source:c:\users\hp\downloads\school\semestre3\r3.02\tp1-polymorphisme\main.cpp
+	<iostream>
+	"Outils.h"
+	"Sportif.h"
+	"SportifMenteur.h"
+
+1665344952 source:c:\users\hp\downloads\school\semestre3\r3.02\tp1-polymorphisme\sportif.cpp
+	"Outils.h"
+	"Sportif.h"
+
+1665344934 c:\users\hp\downloads\school\semestre3\r3.02\tp1-polymorphisme\sportif.h
+	<string>
+	"Outils.h"
+
+1665344069 c:\users\hp\downloads\school\semestre3\r3.02\tp1-polymorphisme\outils.h
+	<time.h>
+
+1665345093 source:c:\users\hp\downloads\school\semestre3\r3.02\tp1-polymorphisme\sportifmenteur.cpp
+	"Sportif.h"
+	"SportifMenteur.h"
+	"Outils.h"
+
+1665345057 c:\users\hp\downloads\school\semestre3\r3.02\tp1-polymorphisme\sportifmenteur.h
+	"Sportif.h"
+

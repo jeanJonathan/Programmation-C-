@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1659708830 source:c:\users\hp\downloads\s3\parrain\programmation objet avancée\tp2\td2lienentreclasse\main.cpp
+	<iostream>
+	"Voiture.h"
+	"Individu.h"
+
+1659707813 source:c:\users\hp\downloads\s3\parrain\programmation objet avancée\tp2\td2lienentreclasse\voiture.cpp
+	"Voiture.h"
+
+1659707561 c:\users\hp\downloads\s3\parrain\programmation objet avancée\tp2\td2lienentreclasse\voiture.h
+	"Individu.h"
+	<iostream>
+
+1659707894 source:c:\users\hp\downloads\s3\parrain\programmation objet avancée\tp2\td2lienentreclasse\individu.cpp
+	"Individu.h"
+	"Voiture.h"
+
+1659707842 c:\users\hp\downloads\s3\parrain\programmation objet avancée\tp2\td2lienentreclasse\individu.h
+	"Voiture.h"
+	<iostream>
+
+1665429078 source:c:\users\hp\downloads\school\semestre3\r3.02\prepacontrole\tp2-relation symetrique\td2lienentreclasse\individu.cpp
+	"Individu.h"
+	"Voiture.h"
+
+1665428984 c:\users\hp\downloads\school\semestre3\r3.02\prepacontrole\tp2-relation symetrique\td2lienentreclasse\individu.h
+	"Voiture.h"
+	<iostream>
+
+1665428992 c:\users\hp\downloads\school\semestre3\r3.02\prepacontrole\tp2-relation symetrique\td2lienentreclasse\voiture.h
+	"Individu.h"
+	<iostream>
+
+1659708830 source:c:\users\hp\downloads\school\semestre3\r3.02\prepacontrole\tp2-relation symetrique\td2lienentreclasse\main.cpp
+	<iostream>
+	"Voiture.h"
+	"Individu.h"
+
+1659707813 source:c:\users\hp\downloads\school\semestre3\r3.02\prepacontrole\tp2-relation symetrique\td2lienentreclasse\voiture.cpp
+	"Voiture.h"
+
+1659708830 source:c:\users\hp\downloads\school\semestre3\r3.02\tp2-relation symetrique\td2lienentreclasse\main.cpp
+	<iostream>
+	"Voiture.h"
+	"Individu.h"
+
+1665428992 c:\users\hp\downloads\school\semestre3\r3.02\tp2-relation symetrique\td2lienentreclasse\voiture.h
+	"Individu.h"
+	<iostream>
+
+1665430188 c:\users\hp\downloads\school\semestre3\r3.02\tp2-relation symetrique\td2lienentreclasse\individu.h
+	"Voiture.h"
+	<iostream>
+
+1665429585 source:c:\users\hp\downloads\school\semestre3\r3.02\tp2-relation symetrique\td2lienentreclasse\voiture.cpp
+	"Voiture.h"
+
+1665430712 source:c:\users\hp\downloads\school\semestre3\r3.02\tp2-relation symetrique\td2lienentreclasse\individu.cpp
+	"Individu.h"
+	"Voiture.h"
+

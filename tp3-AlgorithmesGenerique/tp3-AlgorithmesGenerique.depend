@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1666377001 source:c:\users\hp\downloads\school\semestre3\r3.02\tp3-algorithmesgenerique\main.cpp
+	<iostream>
+	<map>
+	<algorithm>
+	<list>
+

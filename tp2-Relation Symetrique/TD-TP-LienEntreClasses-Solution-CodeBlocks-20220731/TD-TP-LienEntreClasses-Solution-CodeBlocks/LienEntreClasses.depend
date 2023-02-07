@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1605283971 source:c:\users\lopis\onedrive iut\onedrive - iut de bayonne\enseignement\m3105\2020-2021\semaine02-lienentreclasses\td-tp-lienentreclasses-solution-codeblocks\src\individu.cpp
+	"Individu.h"
+
+1605283237 c:\users\lopis\onedrive iut\onedrive - iut de bayonne\enseignement\m3105\2020-2021\semaine02-lienentreclasses\td-tp-lienentreclasses-solution-codeblocks\include\individu.h
+	<iostream>
+	"Voiture.h"
+
+1605283258 c:\users\lopis\onedrive iut\onedrive - iut de bayonne\enseignement\m3105\2020-2021\semaine02-lienentreclasses\td-tp-lienentreclasses-solution-codeblocks\include\voiture.h
+	<iostream>
+	"Individu.h"
+
+1605283985 source:c:\users\lopis\onedrive iut\onedrive - iut de bayonne\enseignement\m3105\2020-2021\semaine02-lienentreclasses\td-tp-lienentreclasses-solution-codeblocks\src\voiture.cpp
+	"Voiture.h"
+

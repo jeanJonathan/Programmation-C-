@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1573500842 source:h:\mesdocs\enseignement\algorithmique et programmation\m3105\semaine01-lienentreclasses\mona-monb\main.cpp
+	<iostream>
+	"ClasseA.h"
+	"ClasseB.h"
+
+1573500389 h:\mesdocs\enseignement\algorithmique et programmation\m3105\semaine01-lienentreclasses\mona-monb\include\classea.h
+	<iostream>
+
+1573500404 h:\mesdocs\enseignement\algorithmique et programmation\m3105\semaine01-lienentreclasses\mona-monb\include\classeb.h
+	<iostream>
+
+1573500700 source:h:\mesdocs\enseignement\algorithmique et programmation\m3105\semaine01-lienentreclasses\mona-monb\src\classea.cpp
+	"ClasseA.h"
+	"ClasseB.h"
+
+1573496726 source:h:\mesdocs\enseignement\algorithmique et programmation\m3105\semaine01-lienentreclasses\mona-monb\src\classeb.cpp
+	"ClasseB.h"
+
+1573501325 source:\\jaizkibel\einfo\lopis\mesdocs\enseignement\algorithmique et programmation\m3105\semaine01-lienentreclasses\mona-monb\src\classea.cpp
+	"ClasseA.h"
+	"ClasseB.h"
+
+1573501836 \\jaizkibel\einfo\lopis\mesdocs\enseignement\algorithmique et programmation\m3105\semaine01-lienentreclasses\mona-monb\include\classea.h
+	<iostream>
+
+1573501185 \\jaizkibel\einfo\lopis\mesdocs\enseignement\algorithmique et programmation\m3105\semaine01-lienentreclasses\mona-monb\include\classeb.h
+	<iostream>
+
+1573501332 source:\\jaizkibel\einfo\lopis\mesdocs\enseignement\algorithmique et programmation\m3105\semaine01-lienentreclasses\mona-monb\src\classeb.cpp
+	"ClasseB.h"
+	"ClasseA.h"
+
+1604746961 source:c:\users\lopis\onedrive iut\onedrive - iut de bayonne\enseignement\m3105\2020-2021\semaine02-lienentreclasses\mona-monb\main.cpp
+	<iostream>
+	"ClasseA.h"
+	"ClasseB.h"
+
+1604757616 c:\users\lopis\onedrive iut\onedrive - iut de bayonne\enseignement\m3105\2020-2021\semaine02-lienentreclasses\mona-monb\include\classea.h
+	<iostream>
+	"ClasseB.h"
+
+1604745988 c:\users\lopis\onedrive iut\onedrive - iut de bayonne\enseignement\m3105\2020-2021\semaine02-lienentreclasses\mona-monb\include\classeb.h
+	<iostream>
+	"ClasseA.h"
+
+1604746256 source:c:\users\lopis\onedrive iut\onedrive - iut de bayonne\enseignement\m3105\2020-2021\semaine02-lienentreclasses\mona-monb\src\classea.cpp
+	"ClasseA.h"
+
+1604747638 source:c:\users\lopis\onedrive iut\onedrive - iut de bayonne\enseignement\m3105\2020-2021\semaine02-lienentreclasses\mona-monb\src\classeb.cpp
+	"ClasseB.h"
+
+1604746961 source:c:\users\lopis\onedrive iut\onedrive - iut de bayonne\enseignement\m3105\2020-2021\semaine02-lienentreclasses\cours\mona-monb\main.cpp
+	<iostream>
+	"ClasseA.h"
+	"ClasseB.h"
+
+1604757733 c:\users\lopis\onedrive iut\onedrive - iut de bayonne\enseignement\m3105\2020-2021\semaine02-lienentreclasses\cours\mona-monb\include\classea.h
+	<iostream>
+	"ClasseB.h"
+
+1604745988 c:\users\lopis\onedrive iut\onedrive - iut de bayonne\enseignement\m3105\2020-2021\semaine02-lienentreclasses\cours\mona-monb\include\classeb.h
+	<iostream>
+	"ClasseA.h"
+
+1604746256 source:c:\users\lopis\onedrive iut\onedrive - iut de bayonne\enseignement\m3105\2020-2021\semaine02-lienentreclasses\cours\mona-monb\src\classea.cpp
+	"ClasseA.h"
+
+1604747638 source:c:\users\lopis\onedrive iut\onedrive - iut de bayonne\enseignement\m3105\2020-2021\semaine02-lienentreclasses\cours\mona-monb\src\classeb.cpp
+	"ClasseB.h"
+
